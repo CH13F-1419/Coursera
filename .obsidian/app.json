@@ -1,4 +1,10 @@
 {
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showFrontmatter": true,
+  "showUnsupportedFiles": true
 }
