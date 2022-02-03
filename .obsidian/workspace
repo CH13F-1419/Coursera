@@ -7,8 +7,12 @@
         "id": "a4f7a24f5ddd1fc6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Test File.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,14 +79,25 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "34b29dda371d2500",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "a4f7a24f5ddd1fc6",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Test File.md",
+    "README.md"
+  ]
 }
