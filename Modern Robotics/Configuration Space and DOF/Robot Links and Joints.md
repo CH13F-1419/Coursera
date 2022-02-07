@@ -1,5 +1,5 @@
 # Robot Links and Joints
-#robotfundamentals 
+#fundamentals #robotics 
 
 We refer to rigid bodies as links. These links are connected together by joints, like a hinge connecting a door to a wall for example. Since the links are rigid and have a constant shape, we typically only need a few numbers to represent the configuration of a robot, compare to trying to represent the configuration of a soft body like a pillow, which can be deformed in a wide variety of ways. An end-effector such as a gripper may be attached to some link of the robot. Actuators deliver forces and torques to the joints, thereby causing motion of the robot.
 

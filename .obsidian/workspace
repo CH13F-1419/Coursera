@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2917bba9463a6248",
+        "id": "0f2c367e39cb81b3",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#robotics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,11 +58,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3bc4c4e679ec89f7",
@@ -131,19 +133,18 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "2917bba9463a6248",
+  "active": "0f2c367e39cb81b3",
   "lastOpenFiles": [
     "Modern Robotics/Configuration Space and DOF/Configuration Space.md",
-    "Modern Robotics/Configuration Space and DOF/README.md",
-    "Modern Robotics/Configuration Space and DOF/Degree of Freedom.md",
     "Modern Robotics/Configuration Space and DOF/Robot Links and Joints.md",
+    "Modern Robotics/Configuration Space and DOF/Degree of Freedom.md",
+    "Modern Robotics/Configuration Space and DOF/README.md",
     "Modern Robotics/Configuration Space and DOF/Untitled.md",
     "Modern Robotics/README.md",
     "Modern Robotics/Chapter 3.md",
