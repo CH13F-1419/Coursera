@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "069c3f4a4e6a7ea6",
+        "id": "2917bba9463a6248",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Modern Robotics/Chapter 2.md",
+            "file": "Modern Robotics/Configuration Space and DOF/Configuration Space.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modern Robotics/Chapter 2.md",
+                "file": "Modern Robotics/Configuration Space and DOF/Configuration Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modern Robotics/Chapter 2.md",
+                "file": "Modern Robotics/Configuration Space and DOF/Configuration Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modern Robotics/Chapter 2.md"
+                "file": "Modern Robotics/Configuration Space and DOF/Configuration Space.md"
               }
             }
           }
@@ -138,9 +138,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "069c3f4a4e6a7ea6",
+  "active": "2917bba9463a6248",
   "lastOpenFiles": [
-    "Modern Robotics/Chapter 2.md",
+    "Modern Robotics/Configuration Space and DOF/Configuration Space.md",
+    "Modern Robotics/Configuration Space and DOF/README.md",
+    "Modern Robotics/Configuration Space and DOF/Degree of Freedom.md",
+    "Modern Robotics/Configuration Space and DOF/Robot Links and Joints.md",
+    "Modern Robotics/Configuration Space and DOF/Untitled.md",
     "Modern Robotics/README.md",
     "Modern Robotics/Chapter 3.md",
     "README.md",

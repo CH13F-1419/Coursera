@@ -1,0 +1,6 @@
+# Robot Links and Joints
+#robotfundamentals 
+
+We refer to rigid bodies as links. These links are connected together by joints, like a hinge connecting a door to a wall for example. Since the links are rigid and have a constant shape, we typically only need a few numbers to represent the configuration of a robot, compare to trying to represent the configuration of a soft body like a pillow, which can be deformed in a wide variety of ways. An end-effector such as a gripper may be attached to some link of the robot. Actuators deliver forces and torques to the joints, thereby causing motion of the robot.
+
+The most widely used one-dof joints are the revolute joint, which allows rotation about the joint axis, and the prismatic joint, which allows translation in the direction of the joint axis. Some common two-dof joints include the cylindrical joint, which is constructed by serially connecting a revolute and prismatic joint, and the universal joint, which is constructed by orthogonally connecting two revolute joints. The spherical joint, also known as the ball-and-socket joint, is a three-dof joint whose function is similar to the human shoulder joint.
