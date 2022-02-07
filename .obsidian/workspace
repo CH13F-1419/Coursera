@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Modern Robotics/Configuration Space and DOF/Configuration Space.md",
+            "file": "Modern Robotics/Configuration Space and DOF/Degree of Freedom.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -58,13 +58,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3bc4c4e679ec89f7",
@@ -80,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modern Robotics/Configuration Space and DOF/Configuration Space.md",
+                "file": "Modern Robotics/Configuration Space and DOF/Degree of Freedom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modern Robotics/Configuration Space and DOF/Configuration Space.md",
+                "file": "Modern Robotics/Configuration Space and DOF/Degree of Freedom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modern Robotics/Configuration Space and DOF/Configuration Space.md"
+                "file": "Modern Robotics/Configuration Space and DOF/Degree of Freedom.md"
               }
             }
           }
@@ -141,10 +139,10 @@
   },
   "active": "0f2c367e39cb81b3",
   "lastOpenFiles": [
-    "Modern Robotics/Configuration Space and DOF/Configuration Space.md",
-    "Modern Robotics/Configuration Space and DOF/Robot Links and Joints.md",
     "Modern Robotics/Configuration Space and DOF/Degree of Freedom.md",
+    "Modern Robotics/Configuration Space and DOF/Configuration Space.md",
     "Modern Robotics/Configuration Space and DOF/README.md",
+    "Modern Robotics/Configuration Space and DOF/Robot Links and Joints.md",
     "Modern Robotics/Configuration Space and DOF/Untitled.md",
     "Modern Robotics/README.md",
     "Modern Robotics/Chapter 3.md",
