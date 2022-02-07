@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Modern Robotics/README.md.md",
+            "file": "Modern Robotics/README.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modern Robotics/README.md.md",
+                "file": "Modern Robotics/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modern Robotics/README.md.md",
+                "file": "Modern Robotics/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modern Robotics/README.md.md"
+                "file": "Modern Robotics/README.md"
               }
             }
           }
@@ -140,7 +140,7 @@
   },
   "active": "069c3f4a4e6a7ea6",
   "lastOpenFiles": [
-    "Modern Robotics/README.md.md",
+    "Modern Robotics/README.md",
     "Modern Robotics/Chapter 3.md",
     "Modern Robotics/Chapter 2.md",
     "README.md",
