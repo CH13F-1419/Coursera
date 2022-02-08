@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/5.1 Manipulator Jacobian.md",
-            "mode": "source",
+            "file": "README.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3bc4c4e679ec89f7",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/5.1 Manipulator Jacobian.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/5.1 Manipulator Jacobian.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/5.1 Manipulator Jacobian.md"
+                "file": "README.md"
               }
             }
           }
@@ -141,6 +140,8 @@
   },
   "active": "0f2c367e39cb81b3",
   "lastOpenFiles": [
+    "README.md",
+    "Modern Robotics/README.md",
     "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/5.1 Manipulator Jacobian.md",
     "Modern Robotics/Configuration Space and DOF/README.md",
     "Modern Robotics/Configuration Space and DOF/Robot Links and Joints.md",
@@ -148,8 +149,6 @@
     "Modern Robotics/Configuration Space and DOF/Degree of Freedom.md",
     "Modern Robotics/Chapter 3.md",
     "Pasted image 20220207155352.png",
-    "Pasted image 20220207155252.png",
-    "Pasted image 20220207155357.png",
-    "Modern Robotics/Configuration Space and DOF/Untitled.md"
+    "Pasted image 20220207155252.png"
   ]
 }
