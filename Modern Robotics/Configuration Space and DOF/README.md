@@ -5,7 +5,7 @@ A robot's [[Configuration Space|C-space]] can be parametrized explicitly or repr
 
 
 ## Holonomic, Non-Holonomic and Pfaffian Constraints
-The C-space of an `n`-dof robot whose structure contains one or moe closed loops can be implicitly represented using `k` loop-closure equations of the form <img src="https://bit.ly/3rsYtqe" align="center" border="0" alt="g(\theta)=0" width="58" height="18" />, where <img src="https://bit.ly/3smwoQB" align="center" border="0" alt="\theta\in\mathbb R_m" width="49" height="17" /> and <img src="https://bit.ly/3ouEDsV" align="center" border="0" alt="g:\mathbb R_m\to\mathbb R_k" width="89" height="18" />. Such constraint equations are called holonomic constraints. Assuming that `𝜃` varies with time `t`, the holonomic constraints <img src="https://bit.ly/3LedmVa" align="center" border="0" alt="g(\theta(t))=0" width="75" height="18" /> can be differentiated with respect to `t` to yieldd
+The C-space of an `n`-dof robot whose structure contains one or moe closed loops can be implicitly represented using `k` loop-closure equations of the form <img src="https://latex.codecogs.com/svg.image?g(\theta(t))=0"/>, where <img src="https://bit.ly/3smwoQB" align="center" border="0" alt="\theta\in\mathbb R_m" width="49" height="17" /> and <img src="https://bit.ly/3ouEDsV" align="center" border="0" alt="g:\mathbb R_m\to\mathbb R_k" width="89" height="18" />. Such constraint equations are called holonomic constraints. Assuming that `𝜃` varies with time `t`, the holonomic constraints <img src="https://bit.ly/3LedmVa" align="center" border="0" alt="g(\theta(t))=0" width="75" height="18" /> can be differentiated with respect to `t` to yieldd
 
 
 
