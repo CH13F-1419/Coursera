@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#robotics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,9 +141,9 @@
   "active": "0f2c367e39cb81b3",
   "lastOpenFiles": [
     "Modern Robotics/Chapter 2 - Configuration Space/Degree of Freedom.md",
-    "Modern Robotics/Chapter 2 - Configuration Space/Configuration Space.md",
     "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/5.1 Manipulator Jacobian.md",
     "Modern Robotics/Chapter 2 - Configuration Space/README.md",
+    "Modern Robotics/Chapter 2 - Configuration Space/Configuration Space.md",
     "Modern Robotics/Chapter 2 - Configuration Space/Robot Links and Joints.md",
     "Modern Robotics/Chapter 3.md",
     "README.md",
