@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview",
+            "file": "Modern Robotics/Chapter 2 - Configuration Space/Degree of Freedom.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Modern Robotics/Chapter 2 - Configuration Space/Degree of Freedom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Modern Robotics/Chapter 2 - Configuration Space/Degree of Freedom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Modern Robotics/Chapter 2 - Configuration Space/Degree of Freedom.md"
               }
             }
           }
@@ -140,14 +140,14 @@
   },
   "active": "0f2c367e39cb81b3",
   "lastOpenFiles": [
+    "Modern Robotics/Chapter 2 - Configuration Space/Degree of Freedom.md",
+    "Modern Robotics/Chapter 2 - Configuration Space/Configuration Space.md",
+    "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/5.1 Manipulator Jacobian.md",
+    "Modern Robotics/Chapter 2 - Configuration Space/README.md",
+    "Modern Robotics/Chapter 2 - Configuration Space/Robot Links and Joints.md",
+    "Modern Robotics/Chapter 3.md",
     "README.md",
     "Modern Robotics/README.md",
-    "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/5.1 Manipulator Jacobian.md",
-    "Modern Robotics/Configuration Space and DOF/README.md",
-    "Modern Robotics/Configuration Space and DOF/Robot Links and Joints.md",
-    "Modern Robotics/Configuration Space and DOF/Configuration Space.md",
-    "Modern Robotics/Configuration Space and DOF/Degree of Freedom.md",
-    "Modern Robotics/Chapter 3.md",
     "Pasted image 20220207155352.png",
     "Pasted image 20220207155252.png"
   ]
