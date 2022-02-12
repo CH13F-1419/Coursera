@@ -6,5 +6,6 @@
   "foldIndent": true,
   "foldHeading": true,
   "showFrontmatter": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
 }
