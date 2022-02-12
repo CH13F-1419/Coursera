@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/5.1 Manipulator Jacobian.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -131,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
