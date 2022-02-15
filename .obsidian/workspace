@@ -7,8 +7,13 @@
         "id": "f98d9008a8717362",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Modern Robotics/Chapter 2 - Configuration Space/2 Configuration Space.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Modern Robotics/Chapter 2 - Configuration Space/2 Configuration Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Modern Robotics/Chapter 2 - Configuration Space/2 Configuration Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Modern Robotics/Chapter 2 - Configuration Space/2 Configuration Space.md"
+              }
             }
           }
         ],
@@ -126,10 +135,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "f98d9008a8717362",
   "lastOpenFiles": [
+    "Modern Robotics/Chapter 2 - Configuration Space/2 Configuration Space.md",
     "Modern Robotics/Chapter 2 - Configuration Space/Chapter 2 Images/Parallelogram Mechanism.png",
     "Modern Robotics/Chapter 2 - Configuration Space/Chapter 2 Images/Four-Bar Mechanism.png",
     "Pasted image 20220215154337.png",
@@ -138,7 +149,6 @@
     "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/5.1 Manipulator Jacobian.md",
     "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/Chapter 5 Images/Space Jacobian Derivation.png",
     "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/Chapter 5 Images/Space Jacobian Definition.png",
-    "Modern Robotics/Chapter 2 - Configuration Space/Configuration Space.md",
     "Pasted image 20220212112740.png"
   ]
 }

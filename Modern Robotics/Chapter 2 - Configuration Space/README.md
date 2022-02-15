@@ -1,7 +1,7 @@
 # Chapter 2: C-Space and DOF
 
 ## Explicit and Implicit Representation
-A robot's [[Configuration Space|C-space]] can be parametrized explicitly or represented implicitly. For a robot with `n` degrees of freedom, an explicit representation uses `n` coordinates, the minimum necessary. An implicit representation involves `m` coordinates with `m>=n`, with the `m` coordinates subject to constraint equations. With an implicit representation, a robot's [[Configuration Space|C-space]] can be viewed as a surface of `n` dimension embedded in a space of higher dimension.
+A robot's [[2 Configuration Space|C-space]] can be parametrized explicitly or represented implicitly. For a robot with `n` degrees of freedom, an explicit representation uses `n` coordinates, the minimum necessary. An implicit representation involves `m` coordinates with `m>=n`, with the `m` coordinates subject to constraint equations. With an implicit representation, a robot's [[2 Configuration Space|C-space]] can be viewed as a surface of `n` dimension embedded in a space of higher dimension.
 
 
 ## Holonomic, Non-Holonomic and Pfaffian Constraints

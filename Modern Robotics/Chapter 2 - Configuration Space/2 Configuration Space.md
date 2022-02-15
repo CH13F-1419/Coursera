@@ -1,4 +1,4 @@
-# Configuration Space
+# 2 Configuration Space
 #fundamentals #robotics
 
 The most fundamental question you can ask about a robot is, "Where is it?" The answer to this question is the robot's configuration, which is a specification of the positions of all the points of the robot.
