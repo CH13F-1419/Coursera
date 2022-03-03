@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f98d9008a8717362",
+        "id": "1ecd316229e87004",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Modern Robotics/Chapter 2 - Configuration Space/2 Configuration Space.md",
+            "file": "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/5.1 Manipulator Jacobian.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fundamentals",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modern Robotics/Chapter 2 - Configuration Space/2 Configuration Space.md",
+                "file": "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/5.1 Manipulator Jacobian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modern Robotics/Chapter 2 - Configuration Space/2 Configuration Space.md",
+                "file": "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/5.1 Manipulator Jacobian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modern Robotics/Chapter 2 - Configuration Space/2 Configuration Space.md"
+                "file": "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/5.1 Manipulator Jacobian.md"
               }
             }
           }
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f98d9008a8717362",
+  "active": "1ecd316229e87004",
   "lastOpenFiles": [
-    "Modern Robotics/Chapter 2 - Configuration Space/2 Configuration Space.md",
-    "Modern Robotics/Chapter 2 - Configuration Space/Chapter 2 Images/Parallelogram Mechanism.png",
-    "Modern Robotics/Chapter 2 - Configuration Space/Chapter 2 Images/Four-Bar Mechanism.png",
-    "Pasted image 20220215154337.png",
-    "Pasted image 20220214113501.png",
-    "Modern Robotics/Chapter 2 - Configuration Space/2.1-2.2 Degree of Freedom.md",
     "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/5.1 Manipulator Jacobian.md",
+    "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/Chapter 5 Images/Relationship between the Space and Body Jacobians.png",
+    "Modern Robotics/Chapter 3.md",
+    "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/Chapter 5 Images/Body Jacobian Derivation.png",
+    "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/Chapter 5 Images/Visualising Space and Body Jacobian 5R.png",
     "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/Chapter 5 Images/Space Jacobian Derivation.png",
-    "Modern Robotics/Chapter 5 - Velocity Kinematics and Statics/Chapter 5 Images/Space Jacobian Definition.png",
-    "Pasted image 20220212112740.png"
+    "Modern Robotics/Chapter 2 - Configuration Space/2.1-2.2 Degree of Freedom.md",
+    "Modern Robotics/Chapter 2 - Configuration Space/2 Configuration Space.md",
+    "Modern Robotics/Chapter 2 - Configuration Space/Robot Links and Joints.md",
+    "Modern Robotics/Chapter 2 - Configuration Space/Chapter 2 Images/Parallelogram Mechanism.png"
   ]
 }
